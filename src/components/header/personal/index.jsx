@@ -1,8 +1,7 @@
 function Personal() {
     return (
-        <div className="personal">
+        <div className="personal pt-5">
             Алекесей
-            {/* <img src /> */}
         </div>
     );
 }

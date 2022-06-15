@@ -78,6 +78,5 @@ select {
 }
 
 body {
-  background-image: url('../src/assets/backgound.png');
-  color: #ffffff !important;
+  /* background-image: url('../src/assets/backgound.png'); */
 }
