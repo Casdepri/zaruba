@@ -43,6 +43,10 @@ ol[class] {
   list-style: none;
 }
 
+a{
+  text-decoration: none!important;
+  color: #ffffff!important;
+}
 /* Элементы a, у которых нет класса, сбрасываем до дефолтных стилей */
 a:not([class]) {
   text-decoration-skip-ink: auto;
@@ -79,4 +83,6 @@ select {
 
 body {
   /* background-image: url('../src/assets/backgound.png'); */
+  background-color: rgba(0, 0, 0, 0.151) !important;
+  color: #ffffff !important;
 }
